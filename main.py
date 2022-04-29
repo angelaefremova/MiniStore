@@ -1,4 +1,3 @@
-# Lab Professor: Ms.Laily Ajellu
 from function import *
 
 while True:
