@@ -1,4 +1,3 @@
-# Lab Professor: Ms.Laily Ajellu
 employee_list = [[1001, "John Alber", "hourly", 8, 0, 0, 22737],
                  [1002, "Sarah Rose", "manager", 12, 0, 0, 22344],
                  [1003, "Alex Folen", "manager", 5, 0, 0, 22957],
